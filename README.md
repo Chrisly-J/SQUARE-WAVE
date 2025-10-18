@@ -29,8 +29,6 @@ END
 ### RESULT:
 Thus the 8051 C program to generate a square wave with frequency of 50khz using keil was done and shown the output.
 
-# SQUARE WAVE
-
 
 ## AIM:
 2.Write a 8051 c program to generate a square wave with frequency of 50khz
