@@ -24,10 +24,12 @@ END
 ```
 
 ### OUTPUT:
+<img width="1178" height="873" alt="Screenshot 2025-10-18 165516" src="https://github.com/user-attachments/assets/f7f21eff-72d5-4137-8582-d171a9811809" />
 
 
 ### RESULT:
 Thus the 8051 C program to generate a square wave with frequency of 50khz using keil was done and shown the output.
+
 
 
 ## AIM:
